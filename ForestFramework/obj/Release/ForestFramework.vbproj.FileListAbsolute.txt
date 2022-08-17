@@ -1,0 +1,11 @@
+C:\Users\geivi\Desktop\Projetos\ForestFramework\ForestFramework\bin\Release\NikyusUI.dll.config
+C:\Users\geivi\Desktop\Projetos\ForestFramework\ForestFramework\bin\Release\NikyusUI.dll
+C:\Users\geivi\Desktop\Projetos\ForestFramework\ForestFramework\bin\Release\NikyusUI.pdb
+C:\Users\geivi\Desktop\Projetos\ForestFramework\ForestFramework\bin\Release\NikyusUI.xml
+C:\Users\geivi\Desktop\Projetos\ForestFramework\ForestFramework\obj\Release\ForestFramework.vbprojResolveAssemblyReference.cache
+C:\Users\geivi\Desktop\Projetos\ForestFramework\ForestFramework\obj\Release\ForestFramework.Form1.resources
+C:\Users\geivi\Desktop\Projetos\ForestFramework\ForestFramework\obj\Release\ForestFramework.Licensing.resources
+C:\Users\geivi\Desktop\Projetos\ForestFramework\ForestFramework\obj\Release\ForestFramework.Resources.resources
+C:\Users\geivi\Desktop\Projetos\ForestFramework\ForestFramework\obj\Release\ForestFramework.vbproj.GenerateResource.Cache
+C:\Users\geivi\Desktop\Projetos\ForestFramework\ForestFramework\obj\Release\NikyusUI.xml
+C:\Users\geivi\Desktop\Projetos\ForestFramework\ForestFramework\obj\Release\NikyusUI.pdb

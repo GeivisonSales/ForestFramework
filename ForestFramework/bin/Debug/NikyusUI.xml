@@ -1,0 +1,133 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+NikyusUI
+</name>
+</assembly>
+<members>
+<member name="T:ForestFramework.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:ForestFramework.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:ForestFramework.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:ForestFramework.My.Resources.Resources.activate_btn_green">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ForestFramework.My.Resources.Resources.activate_btn_green_clicked">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ForestFramework.My.Resources.Resources.box_plate_blue">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ForestFramework.My.Resources.Resources.clip_dancer">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ForestFramework.My.Resources.Resources.happy">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ForestFramework.My.Resources.Resources.key">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ForestFramework.My.Resources.Resources.key_icon">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ForestFramework.My.Resources.Resources.logo">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ForestFramework.My.Resources.Resources.pressed_happy">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="M:ForestFramework.ExtendedGraphics.DrawRectangle(System.Drawing.Graphics,System.Drawing.Pen,System.Drawing.Rectangle,System.Int32)">
+ <summary>
+ Draws a rectangle with it's corners rounded using GDI+
+ </summary>
+ <param name="g">The graphics that does the drawing</param>
+ <param name="pen">System.Drawing.Pen that determines the color, width, and style of the rectangle.</param>
+ <param name="area">System.Drawing.Rectangle that represents the rectangle to draw.</param>
+ <param name="radius">System.Int32 that determines the roundness of the corners.</param>
+</member>
+<member name="M:ForestFramework.ExtendedGraphics.DrawRectangle(System.Drawing.Graphics,System.Drawing.Pen,System.Drawing.Point,System.Drawing.Size,System.Int32)">
+ <summary>
+ Draws a rectangle with it's corners rounded using GDI+
+ </summary>
+ <param name="g">The graphics that does the drawing</param>
+ <param name="pen">System.Drawing.Pen that determines the color, width, and style of the rectangle.</param>
+ <param name="location">The x and y coordinates that determine the upper-left corner of the rectangle.</param>
+ <param name="size">The width and height that determine the size of the rectangle.</param>
+ <param name="radius">System.Int32 that determines the roundness of the corners.</param>
+</member>
+<member name="M:ForestFramework.ExtendedGraphics.DrawRectangle(System.Drawing.Graphics,System.Drawing.Pen,System.Int32,System.Int32,System.Int32,System.Int32,System.Int32)">
+ <summary>
+ Draws a rectangle with it's corners rounded using GDI+
+ </summary>
+ <param name="g">The graphics that does the drawing</param>
+ <param name="pen">System.Drawing.Pen that determines the color, width, and style of the rectangle.</param>
+ <param name="x">The x coordinate that determines the upper-left corner of the rectangle.</param>
+ <param name="y">The y coordinate that determines the upper-left corner of the rectangle.</param>
+ <param name="width">Width of the rectangle to draw.</param>
+ <param name="height">Height of the rectangle to draw.</param>
+ <param name="radius">System.Int32 that determines the roundness of the corners.</param>
+</member>
+<member name="M:ForestFramework.ExtendedGraphics.FillRectangle(System.Drawing.Graphics,System.Drawing.Brush,System.Drawing.Rectangle,System.Int32)">
+ <summary>
+ Fills a rectangle with it's corners rounded using GDI+
+ </summary>
+ <param name="g">The graphics that does the drawing</param>
+ <param name="brush">System.Drawing.Brush that determines the color and style of the line.</param>
+ <param name="area">System.Drawing.Rectangle that represents the rectangle to fill.</param>
+ <param name="radius">System.Int32 that determines the roundness of the corners.</param>
+</member>
+<member name="M:ForestFramework.ExtendedGraphics.FillRectangle(System.Drawing.Graphics,System.Drawing.Brush,System.Drawing.Point,System.Drawing.Size,System.Int32)">
+ <summary>
+ Fills a rectangle with it's corners rounded using GDI+
+ </summary>
+ <param name="g">The graphics that does the drawing</param>
+ <param name="brush">System.Drawing.Pen that determines the color and style of the rectangle.</param>
+ <param name="location">The x and y coordinates that determine the upper-left corner of the rectangle.</param>
+ <param name="size">The width and height that determine the size of the rectangle.</param>
+ <param name="radius">System.Int32 that determines the roundness of the corners.</param>
+</member>
+<member name="M:ForestFramework.ExtendedGraphics.FillRectangle(System.Drawing.Graphics,System.Drawing.Brush,System.Int32,System.Int32,System.Int32,System.Int32,System.Int32)">
+ <summary>
+ Fills a rectangle with it's corners rounded using GDI+
+ </summary>
+ <param name="g">The graphics that does the drawing</param>
+ <param name="brush">System.Drawing.Pen that determines the color and style of the rectangle.</param>
+ <param name="x">The x coordinate that determines the upper-left corner of the rectangle.</param>
+ <param name="y">The y coordinate that determines the upper-left corner of the rectangle.</param>
+ <param name="width">Width of the rectangle to draw.</param>
+ <param name="height">Height of the rectangle to draw.</param>
+ <param name="radius">System.Int32 that determines the roundness of the corners.</param>
+</member>
+</members>
+</doc>
